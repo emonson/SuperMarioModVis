@@ -1,0 +1,238 @@
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1996-12-24-Peach-Daisy-Royal-Games/Super Mario Bros - Peach and Daisy and The Royal Games (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1996-12-24-Peach-Daisy-Royal-Games/Super Mario Bros - Peach and Daisy and The Royal Games with Hacked Music (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1997-06-12-Missing-Hat/MissingHat.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-01-01-AllStarLevels/Super Mario Bros - All-Star Levels by AP (V1-03).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-01-01-Justin2Edition/SMB1 - Super Mario Bros by Justin 2 (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-01-01-LuigiBros/SMB1 - Luigi Bros (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-01-01-LuigiNewQuest/SMB1 - Luigi and the New Quest (level & graphics patch) (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-01-01-LuigiNewQuest/SMB1 - Luigi and the New Quest (new level patch) (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-01-01-LuigisTraining/SMB1 - Luigi's Training (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-01-01-LuigiXmas/Super Mario Bros - Luigi and the Christmas Quest.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-01-01-SMB2Special/Super Mario Bros 2 Special by Jordan Bieber (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-01-01-SMBRemix2/Super Mario Bros - Remix 2 - The New Adventures.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-01-01-SMBRemix3/Super Mario Bros - Remix 3 The Link Adventures.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/1999-12-31-SMRemix/Super Mario Remix - Toad Bros (Beta 90) (Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-Exclamation/kamikaze_dx.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-Mario-in-Ice/SMB1 - Mario in Ice (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-MarioAdv2/SMB1 - Mario Adventure 2 by Krillian (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-MarioAirman/SMB_vsairman1.01 AirMan Stage Ony.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-MarioAirman/SMB_vsairman[d] Mushroom Kingdom Added.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-MarioCastle/SMB1 Castle.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-MarioHadDied/SMB1 - Mario Had Died (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-MarioMania/Super Mario Bros. - Mario Mania.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-MariosRelay/Super Mario Bros - Project Recovery Mario's Relay.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-MegaMario/SMB1 - Mega Mario Bros (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-Mikamari1/Super Mario Bros - Mikamari 1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-Mikamari2/Super Mario Bros. - Mikamari 2.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-Mikamari3/Super Mario Bros - Mikamari 3.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-Mikamari4/Super Mario Bros - Mikamari 4.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-Mikamari5/Super Mario Bros - Mikamari 5.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-Millennium/Super Mario Bros - Millenium Mario v1 FINAL.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SiriusMB1/Super Mario Bros - Sirius Mario Bros 1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SiriusMB2/Super Mario Bros. - Sirius Mario Bros 2.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SiriusMB3/Super Mario Bros - Sirius Mario Bros 3.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SiriusMB4/Super Mario Bros - Sirius Mario Bros 4.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SiriusMB5/Super Mario Bros - Sirius Mario Bros 5.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SiriusMB6/Super Mario Bros - Sirius Mario Bros 6.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SMB-Killers/Super Mario Bros - Killers V6.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SMB-Kirikaze/Super Mario Bros - Kirikaze Oogarasu Edition.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SMBAlcatraz/alcatraz071120.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SMBFullMoon/fullmoon.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SMBRevisited/Super Mario Bros - Revisited v4-3.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SMPipeMaze/Super Mario Bros - The Stronghold.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SpecialDesign/Super Mario Bros - Special Design Mario.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SpuddJourney/Super Mario Bros - Spudd The Journey Home.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-SqRoot5/root5_1.10.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-World-Weirdness/Super Mario Bros - Messeed Up World of Weirdness Edition 3 by AP.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-01-01-YoshisQuest/Super Mario Bros - Yoshi's Quest.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-02-24-MoonAdventure/Mario's Moon Adventure.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2000-05-20-StrangeMB1/StrMBro1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2001-01-01-Medley/SMB1 - Super Mario Bros VS Medley (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2001-01-01-PondFrogWater/SMB1 - Old Pond, Diving Frog and Water Sound by U1 (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2001-01-01-Rhino/SMB1 - Super Mario Bros Rhino Ver (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2001-01-01-SMB-Tobi/SMB1 - Tobi (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2001-01-01-SoldierVsMario/soldier.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2001-01-01-Tokonatu/SMB1 - Tokonatu (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2001-05-05-NewStrange/NewStrangeMarioBros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2001-09-23-Pandamar/pandamar.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2001-12-14-SMBash/Mario Bash.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2002-01-01-Ende3/SMB1 - Ende's Super Mario Bros Hack 3 (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2002-01-01-FlowerMario/SMB1 - Flower Mario (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2002-01-01-HammerMB/SMB1 - Hammer Mario Bros (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2002-01-01-IceMario/SMB1 - Ice Mario (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2002-01-01-SMBPanic5/SMB1 - Panic! Part 5 by Mashi (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2002-01-01-StarRemix/SMB1 - Star Remix (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2002-01-01-TropicalIsland/SMB1 - Tropical Island (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2002-11-02-SuperMushroom/Super Mushroom.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-AnekiMario/SMB1 - Aneki Mario (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-GearMushroom/SMB1 - Mario Gear - Mushroom Eater (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-JunkMario/Super Mario Bros - Junk Mario V1-1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-KamikazeDX/kamikaze_dx-1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-KanjiMB/SMB1 - Mikamari Kanji Mario Bros (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-Kiri5-Star/SMB1 - Kiri5 Star (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-M-Mario/SMB1 - M Mario (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-Mario-1337/SMB1 - Mario 1337 (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-Platina/PLATINA.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-ShroomTrip/ShMario - The Mario Brother's 'shroom Trip (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-SMB-ByTyappy/SMB1 - Super Mario by Tyappy (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-SuperZabilBros/SMB1 - Super Zabil Bros (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-01-01-TetrisMB/SMB1 - Tetris Mario Bros (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-06-03-ZeldaOutskirts/zelda_outskirts.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2003-10-15-XXXX/XXXX.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-2nd-Googie/Super Mario Bros. - 2nd by Googie.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-Beginner/SMB1 - Beginner (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-By-NMorgan/SMB1 - Super Mario V1.0 by NMorgan (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-By-Zerosiki/Super Mario Bros - V2 by Zerosiki (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-ByKiroton/SMB1 - Super Mario Bros by Kiroton (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-DearMemory/SMB1 - Dear, My Memory... by Sinzan (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-Ende1/Super Mario Bros - Endes Super Mario Bros Hack 1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-Escalator/SMB1 - Escalator (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-ExtraAdvEd/SMB1 - Super Mario Bros by Extra Adv (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-HiroMario/Super Mario Bros - Hiro Mario.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-HiroMario2/Super Mario Bros - Hiro Mario 2.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-JUN-Mario/JUN Mario 1 (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-Kamikaze3/kamikaze3.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-MarioSan/SMB1 - Super Mario San (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-MarioTower/Super Mario Bros - TowerRE Beta 9.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-Promotion/SMB1 - Promotion Mario Bros by 18 Craftsmen (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-RetsEscape/SMB1 - Ret's Escape Puzzle World by Excel (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-SMB5000/Super Mario 5000 by Frantik (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-SMBBunper/SMB1 - Super Mario Bros by Bunper (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-StickBros/SMB1 - Super Stick Bros v2.1 (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-WaluigiAdv/waluigi's adventure.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-01-01-WarioBros/super wario bros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-02-25-Mario-Zebes/SMB - Mario In Zebes.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-05-28-Evolution2/Mario Evolution 2 smb hack.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-12-04-SuperDuper/SDUPER12.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-12-24-EvolutionTrue/SuperMarioEvolution(TRUE)Vr2.00.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-12-28-ShroomMare/MNNTS.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2004-12-28-ShroomMare/MNTS.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-01-01-AfterSMBJ2/SMB1 - New Quest After SMB2j, The - Y.R.P.P. by AP (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-01-01-BowserWario/Super Mario Bros. - Bowser vs Wario by Icegoom.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-01-01-By-Garuna/SMB1 - Super Mario Bros by Garuna (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-01-01-ExtraHard/SMB1 - Extra Hard Levels by LegoMan (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-01-01-Hi-Episode4/Super Mario Bros - Hi Episode 4.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-01-01-S-Cay-Mario/SMB1 - S-Cay Mario (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-01-01-SMBChallenge/SMB1 - SMB Challenge v5.0 (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-01-01-TrickyMNeo/SMB1 - Tricky Mario Neo (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-05-04-JustinFriends/justin_and_friends_1.1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-06-01-Hi-Episode1/Super Mario Bros - Hi Episode 1d - Final Tuned.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-07-06-ToadsAdv/Toad's Adventure_v2_0.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-09-20-SMB3Patch/mariosmb3a.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-09-20-SMB3Patch/mariosmb3b.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-10-01-LuigiChron/LCgameA.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-10-01-LuigiChron/LCgameB.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-10-01-PeachsCream/peachcream.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-10-01-PeachsCream/PeachCream2012.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-10-05-SMB-DX/SMBDX11fix.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-10-05-SMB-DX/SMBDX20.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2005-10-06-ExtraMB/EXTRA MARIO BROS.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-01-01-Hi-Episode3/Super Mario Bros. - Hi Episode 3-1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-01-15-BowserJump/Super Mario Bros - Bowser's Jumping Challenge V1.0 by AlexAR (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-02-11-AfterWorld8/afterworld8v1.1 (GFX).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-02-28-SMBPocket/smb-sp.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-03-08-SuperGothic/Super Gothic Bros 1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-03-13-SMB-HF/SuperMarioBrosHFV1.1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-03-15-Paradyce/Smb2GFX.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-03-15-Paradyce/Smb2GFXPAL.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-03-15-Paradyce/Smb2GFXSPA.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-03-15-Paradyce/Smb2GFXSprit.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-03-15-Paradyce/Smb2sprite.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-06-03-SuperLoco/super_loco_spoof!.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-09-28-Evolution/mario_evolution_1.2.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-12-06-ToadTreasure/ToadsTQv1.3.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2006-12-17-SMBChallenge/SMBC_FINAL.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-01-01-FunnyPrincess/FunnyPrincess.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-01-01-Greyscale/PALHACKB.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-01-01-Greyscale/PALHACKG.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-01-01-HyperMBR/SMB1 - Hyper Mario Bros R by MHS.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-01-01-Love-and-Star/Super Mario Bros. - Love and Star by Ki.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-01-01-SM-263-Shiki/SMB1 - Super Tsurumi Shiki - Tsurumi Shiki Mario by Tsurumittsu (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-06-09-KirbyAdv2/Kirbys Adventure 2(pgr 0).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-06-09-KirbyAdv2/Kirbys Adventure 2(pgr 1).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-06-12-MushKingdom/SuperMarioBrosMKC5.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-08-02-SNinjaBros/Mortal Kombat Bros Sub Zero Mythologies Quest.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-10-12-TimeTicking/Time Is Ticking (SMB hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-10-27-Annoyance/Annoyance.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-11-14-MusicHacks/music1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-11-14-MusicHacks/music10.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-11-14-MusicHacks/music2.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-11-14-MusicHacks/music3.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-11-14-MusicHacks/music4.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-11-14-MusicHacks/music5.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-11-14-MusicHacks/music6.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-11-14-MusicHacks/music7.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-11-14-MusicHacks/music8.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-11-14-MusicHacks/music9.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-12-20-SM-Xmas/Super Mario Xmas (SMB Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2007-12-24-SuperCatholic/Super Catholic Bros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-01-01-SM-Tycoon/SMB1 - Super Mario Tycoon EASIER (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-01-01-SMB-Plus/SMB1 - Super Mario Bros Plus (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-01-01-StompHead/Stomp on Brothers Head -8-1-1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-01-05-StrangeLost2/Strange_mario_brothers_The_Lost_Levels.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-01-12-NinjaInsanity/Super Mario Brothers - Ninja Insanity.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-03-23-Enigmario/Enigmario.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-04-13-PixelKingdom/The pixel Kingdom 1.0.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-04-22-SilhouetteMB/silhouettebros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-10-25-LadyOpera/Lady Opera - Swf Panic v1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-10-25-LadyOpera/Lady Opera - Swf Panic[no ani] v1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-11-17-SpartanBros/SpartanBros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2008-12-23-ToadXmas/Toads Christmas Adventure 1.5.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2009-02-20-TKB-SMB/tkb-smb1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2009-02-23-MrSandman/Mr_Sandman.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2009-06-30-MegamanSMB/msmb1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2009-07-08-BLOCKER/BLOCKER.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2009-07-08-StrangeFix/strangefix.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2009-12-29-FinalStrikyu/Final Strikyu (Touhou Super Mario Bros).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2010-02-19-TKB-SMB-2/tkb-smb1-v2.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2010-06-24-ReignKoopa/larry1.1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2010-09-11-Impossibros/Super Mario Impossibros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2010-12-13-ToadetteXmas/Toadettes_Christmas_Adventure.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2010-12-23-HackedMB/Hacked Mario Bros by Alexey.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-04-02-NormalMB/NormalMarioBros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-04-28-TimeAndPlace/SuperMarioBros-TimeAndPlace.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-05-10-32LostLevels/Super Mario Bros. and the 32 Lost Levels.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-06-28-FastFoes/SuperMarioBros-FastFoes.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-07-20-FinalQuest/smb FINAL QUEST.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-07-20-SMB3-Graphics/Super Mario BROS S.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-07-29-SMB-Rebirth/smbr_patch.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-08-07-YoonA/YoonA(CU)Hard.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-08-07-YoonA/YoonA(CU)Normal.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-08-13-BowserCastle/SMB Bowsers Castle.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-09-29-SUICIDEXTREME/supermariobros SUICIDEXTREME.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-11-11-SMB-HF-2/SuperMarioBrosHF2.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-11-19-Insectduel6th/ISD6thAnni (SMB1 Hack).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2011-12-21-SUICIDEXTREME2/super mario bros. SUICIDEXTREME2.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2012-01-17-SMUnlimited/SuperMarioUnlimited.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2012-03-01-SupremeMB/suprememariobros..ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2012-05-05-SMBSpecial/smbs-1.0~rc1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2012-05-09-SUICIDEXTREME3/suicidextreme3.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2012-06-12-SpecialX1/SUPER MARIO BROS Special X1 for NES.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2012-11-10-SxROM-MB/SxROM Mario Bros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2012-11-17-SMBExtended/Smb Extended - 2P GAME.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2012-11-17-SMBExtended/Smb Extended - GFX_PAL_BGM.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-02-13-LuigiBros/Super Luigi Bros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-03-09-ColorFix/SMBcolorfix.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-03-13-PeachEd/smbpe.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-04-02-NewSuperAdv/The New Super Adventure (smb1 hack) (public release version).ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-04-26-ExtremeDanger/Extreme danger bros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-04-26-ExtremeDanger/Smb danger beginning.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-04-26-ModernClassic/SMB1.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-05-08-NHMFTDN/NHMFTDN New.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-05-08-NHMFTDN/Old Subsistence version/NHMFTDN Old.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-06-27-SuperPixelBros/Super Pixel Bros. (E) (SMB1 Hack) [NES] [EN].ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-06-27-SuperPixelBros/Super Pixel Bros. (E) (SMB1 Hack) [NES] [ES].ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-06-27-SuperPixelBros/Super Pixel Bros. (E) (SMB1 Hack) [NES] [IT].ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-06-27-SuperPixelBros/Super Pixel Bros. (U) (SMB1 Hack) [NES] [EN].ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-06-27-SuperPixelBros/Super Pixel Bros. (U) (SMB1 Hack) [NES] [ES].ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-06-27-SuperPixelBros/Super Pixel Bros. (U) (SMB1 Hack) [NES] [IT].ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2013-12-20-GrandmaReindeer/grandmagotranoverbyareindeer.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2014-01-15-CharlieBrown/CharlieBrown.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2014-03-09-SUICIDEXTREME4/suicidextreme4.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2014-04-21-YASH/YASH.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2014-09-11-SuperBeard/Super Beard Bros. The Game.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2014-10-02-CemeteryBros/Cemetery Bros.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2014-10-16-PeppyMario/SMB - Peppy Mario.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2014-11-01-Reved-Up/Super Mario Bros. Reved Up.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2014-11-01-SMB-Simplified/Super Mario Bros. Simplified.ips
+/Users/emonson/Dropbox/Visualizing-Digital-Seriality/Mods sorted/2014-11-06-JimbosAdv/JIMBO v2.ips
